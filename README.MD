@@ -13,7 +13,7 @@
 
 ![Algorithm scheme using the first variant Part3](https://i.imgur.com/bYgn7E9.png)
 
-![Algorithm scheme using the first variant Part4](https://i.imgur.com/SjqN24S.png)
+![Algorithm scheme using the first vаriant Part4](https://i.imgur.com/SjqN24S.png)
 
 ![Algorithm scheme using the first variant Part5](https://i.imgur.com/XYTIIyL.png)
 
